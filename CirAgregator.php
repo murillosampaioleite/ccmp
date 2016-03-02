@@ -48,6 +48,10 @@ on
 cv.CD_CANAL = PA.CD_CANAL
 ';
 
+$queryTerminoVigencia = '';
+$queryVencimentoCartaoCredito = '';
+
+
 echo searchMss($queryDebAuto);
 
 
